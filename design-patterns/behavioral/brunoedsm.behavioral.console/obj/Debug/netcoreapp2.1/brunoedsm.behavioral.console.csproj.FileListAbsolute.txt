@@ -1,0 +1,11 @@
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.csprojAssemblyReference.cache
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.csproj.CoreCompileInputs.cache
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.AssemblyInfoInputs.cache
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.AssemblyInfo.cs
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/bin/Debug/netcoreapp2.1/brunoedsm.behavioral.console.deps.json
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/bin/Debug/netcoreapp2.1/brunoedsm.behavioral.console.runtimeconfig.json
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/bin/Debug/netcoreapp2.1/brunoedsm.behavioral.console.runtimeconfig.dev.json
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/bin/Debug/netcoreapp2.1/brunoedsm.behavioral.console.dll
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/bin/Debug/netcoreapp2.1/brunoedsm.behavioral.console.pdb
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.dll
+/Users/brunomonteiro/Documents/Projects/c-sharp-resources/design-patterns/behavioral/brunoedsm.behavioral.console/obj/Debug/netcoreapp2.1/brunoedsm.behavioral.console.pdb
